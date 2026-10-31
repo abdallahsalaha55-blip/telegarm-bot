@@ -1,1 +1,1 @@
-python3 Telegram Hack.py
+python Telegram Hack.py
