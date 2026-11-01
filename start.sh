@@ -1,1 +1,1 @@
-python "Telegram Hack.py"
+python bot.py
